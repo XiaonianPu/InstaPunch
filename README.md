@@ -1,5 +1,5 @@
 # InstaPunch
-InstaPunch™ is a Orienteering Event Management software based on PySide6 GUI framework. It consists of **Event Manager** and **Readout Router**.
+InstaPunch™ is an Orienteering Event Management software based on PySide6 GUI framework. It consists of **Event Manager** and **Readout Router**.
 
 - Support **SPORTIdent**, **ChinaHealth** orienteering punching system.
 - Enable full-life-circle, multi-days event management.
