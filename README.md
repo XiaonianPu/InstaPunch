@@ -13,3 +13,4 @@ InstaPunch™ is an Orienteering Event Management software based on PySide6 GUI 
 Software available in [release page](https://github.com/XiaonianPu/InstaPunch/releases), please contact sserxiaonian@gmail.com for beta test license.
 
 More information in [here](https://xnorienteering.club)
+Modified on 2023.05.21
