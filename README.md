@@ -22,25 +22,9 @@ InstaPunch™ 是一款基于 PySide6 图形化界面设计的全生命周期定
 - 软件大多数功能都是免费的，但一些特别设计的高级功能只针对部分硬件与用户开放。
 - 目前软件处于beta阶段，功能迭代是主要工作内容，不排除有较多隐藏的bug，相关文档的补充会比较慢，如有问题请联系开发者。
 
-
-
-## 2 如何进行授权
-InstaPunch大多数时候都是免费软件。但它依然需要合理的授权控制以保护知识产权。激活的方法如下所示。
-
-- 在下方下载InstaPunch以及InstaPunchReader。打开InstaPunch.exe，此时处于未注册状态无法进行赛事管理，请点开***其他->关于***，将机器码复制下来：
-![image](https://github.com/XiaonianPu/InstaPunch/assets/17359529/5adddbe6-21e7-4408-8e14-ef43a6c1f95c)
-
-- 登录[小谷围高校定向联盟](https://xnorienteering.club)，注册账号，如果是高校学生建议使用校园邮箱（以edu结尾），我会对高校校园邮箱的授权申请优先进行审批。注册完成后打开***个人中心***：
-![image](https://github.com/XiaonianPu/InstaPunch/assets/17359529/4034eba5-74f3-4c03-9f5d-f7cec2c928bd)
-
-- 切换到***授权管理***，并添加一个授权：
-![image](https://github.com/XiaonianPu/InstaPunch/assets/17359529/d7d988db-17a7-4739-9c4d-5483d3dc8a91)
-
-- 填写机器码以及所需要的设备类型。注意，你应当填写自己打开软件时看到的机器码，而不是照抄图片中的内容
-![image](https://github.com/XiaonianPu/InstaPunch/assets/17359529/965ae5ba-adfd-49ee-aee8-642db611a53a)
-
-- 点击保存，顶部提示保存成功后即可留意来自danienxnpu@xnorienteering.club的激活邮件。
-![image](https://github.com/XiaonianPu/InstaPunch/assets/17359529/56332b29-ca0a-4a53-bf32-8957ae637444)
+## 2 文档与教程
+可以访问软件的官方文档页面 [InstaPunch Docs](https://docs.xnorienteering.club)。
+## 3 软件发布
 
 软件版本发布请见 [release page](https://github.com/XiaonianPu/InstaPunch/releases)，如需授权体验请发邮件 sserxiaonian@gmail.com 。
 
