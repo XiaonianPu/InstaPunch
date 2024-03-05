@@ -3,7 +3,9 @@
 # 基本介绍
 InstaPunch® 是一款基于Python3开发的全生命周期定向运动多日赛成绩统计软件，主要由`InstaPunch® Reader`读卡客户端与`InstaPunch®`成绩统计客户端组成。
 ![](/assets/about.png)
+![](/assets/reader.png)
 
+目前1.7.0-beta版本进行对外开放测试。该版本可以免授权直接使用`灰常越野`、`乐嘉体育`与`SPORTident`的计时器材，`华瑞健`器材的读卡功能需要申请试用授权。
 
 ## 产品特点
 
