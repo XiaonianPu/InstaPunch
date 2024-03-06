@@ -13,6 +13,7 @@ InstaPunch® 是一款基于Python3开发的全生命周期定向运动多日赛
 
 ### 跨平台
 原生支持`MacOS`、`Linux`与`Windows`。MacOS版本已接入`Apple公证与签名服务`，未来将上架AppleStore。
+![](/assets/macos.png)
 
 ### 通用性
 定义了通用读卡数据传输协议（General Readout Transportation Protocol, GRTP），消除了不同品牌的硬件在表达、传输、存储上的差异，做到了大而全的兼容与良好的可拓展性。目前InstaPunch已支持 `SPORTident(SI)`、`华瑞建(ChinaHealth)`、`灰常越野(Huichang)一代与二代`、`乐嘉体育(Learnjoy)` 这四种定向运动计时器材。学会使用InstaPunch，你就能胜任这四种硬件的成绩统计工作。
@@ -21,7 +22,6 @@ InstaPunch® 是一款基于Python3开发的全生命周期定向运动多日赛
 使用读卡与成绩隔离的评估系统。读卡记录进入数据库后无法修改或删除，成绩通过对原始读卡记录进行评估得到。支持修改评估的成绩，但任何情况下都会保留并且可以还原为原始的读卡数据，有效避免成统侧未经授权的数据修改。
 
 ### 外部安全性
-
 
 系统整体使用Sqlite3单文件数据库存储，备份赛事只需拷贝文件，即使在读卡过程中也可以随时增量备份数据库文件。
 
