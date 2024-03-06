@@ -53,7 +53,7 @@ InstaPunch® 是一款基于Python3开发的全生命周期定向运动多日赛
 ### 出发批次管理
 内建出发批次分配与管理，具有不同的出发批次生成与间隔策略，支持出发批次导入导出，支持快速编排。读卡评估时可以直接使用编排好的出发批次表作为出发时间。
 
-![](/assets/readout.png)
+![](/assets/startlist.png)
 
 ### 成统拓扑
 支持复杂的分布式网络成统，包含`Standalone`/`Multiplex Standalone`/`Dedicated Server`三种基本的成统拓扑结构，允许任意组合的N台电脑使用M台主站，你甚至可以`混合多种不同的器材同时进行成统工作`。
